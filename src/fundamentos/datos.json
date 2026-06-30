@@ -1,5 +1,0 @@
-[
-  {"id": 1, "nombre": "Proyecto A", "estado": "activo"},
-  {"id": 2, "nombre": "Proyecto B", "estado": "pendiente"},
-  {"id": 3, "nombre": "Error X", "estado": "desconocido"}
-]
